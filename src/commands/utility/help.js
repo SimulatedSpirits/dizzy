@@ -116,10 +116,8 @@ async function getHelpMenu({ client, guild }) {
     .setThumbnail(client.user.displayAvatarURL())
     .setDescription(
       "**About Me:**\n" +
-        `Hello I am ${guild.members.me.displayName}!\n` +
-        "A cool multipurpose discord bot which can serve all your needs\n\n" +
-        `**Invite Me:** [Here](${client.getInvite()})\n` +
-        `**Support Server:** [Join](${SUPPORT_SERVER})`
+        `Hello I am ${guild.members.me.displayName}!\n\n` +
+        "A multipurpose discord bot made by Simulated(Logan) for Lighthouse Brigade\n\n"
     );
 
   return {
