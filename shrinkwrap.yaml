@@ -1,0 +1,47 @@
+registry: 'https://registry.npmjs.org/'
+shrinkwrapMinorVersion: 9
+shrinkwrapVersion: 3
+specifiers:
+  '@lavaclient/queue': ^2.1.1
+  '@lavaclient/spotify': ^3.1.0
+  '@vitalets/google-translate-api': ^9.0.0
+  ascii-table: 0.0.9
+  btoa: ^1.2.1
+  bufferutil: ^4.0.7
+  common-tags: ^1.8.2
+  connect-mongo: ^4.6.0
+  country-emoji-languages: ^1.0.0
+  discord-giveaways: ^6.0.1
+  discord-together: ^1.3.31
+  discord.js: ^14.6.0
+  dotenv: ^16.0.3
+  ejs: ^3.1.8
+  enhanced-ms: ^2.1.1
+  erlpack: ^0.1.4
+  eslint: ^8.27.0
+  eslint-plugin-jsdoc: ^39.6.2
+  express: ^4.18.2
+  express-session: ^1.17.3
+  fixedsize-map: ^1.0.1
+  iso-639-1: ^2.1.15
+  lavaclient: ^4.1.1
+  module-alias: ^2.2.2
+  moment: ^2.29.4
+  mongoose: ^6.7.2
+  nekos.life: ^3.0.0
+  node: ^16.11.0
+  node-fetch: ^2.6.7
+  nodemon: ^2.0.20
+  os: ^0.1.2
+  pino: ^8.7.0
+  pino-pretty: ^9.1.1
+  prettier: 2.7.1
+  pretty-ms: ^7.0.1
+  snakecord: ^1.0.9
+  sourcebin_js: ^0.0.3-ignore
+  string-progressbar: ^1.0.4
+  table: ^6.8.1
+  timestamp-to-date: ^1.1.0
+  twemoji-parser: ^14.0.0
+  utf-8-validate: ^5.0.10
+  zlib-sync: ^0.1.7
